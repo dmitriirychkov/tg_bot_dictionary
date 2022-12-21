@@ -1925,7 +1925,7 @@ DEFINITOINS = {
     'vlan': '(от англ. Virtual Local Area Network) — виртуальная локальная компьютерная сеть (позволяет разделить одну локальную сеть на отдельные сегменты).',
     'vnf': 'Virtualized Network Function – Виртуализированная сетевая функция',
     'vnfc': 'Virtual Network Function Component – Компонент виртуализированной сетевой функции',
-    'vnfi': 'Virtual Network Function Infrastructure – Инфраструктура виртуализированной сетевой функции'
+    'vnfi': 'Virtual Network Function Infrastructure – Инфраструктура виртуализированной сетевой функции',
     'vnfm': 'Virtual Network Function Manager – Менеджер виртуализированной сетевой функции',
     'voip': '(voice over IP) — это узкая технология, которая используется для передачи аудиоданных по сети (тех, где есть речь, голос). Она была разработана для того, чтобы добиться лучшего качества связи.',
     'vpn': 'Virtual Private Network – Виртуальная частная сеть',
